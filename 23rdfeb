@@ -1,0 +1,500 @@
+   20  git add .
+   21  git status
+   22  git config --global user.name "RAJENDER"
+   23  git config --global user.name "JENDER@gmail.com"
+   24  git config --global user.email "jender@gmail.com"
+   25  git status
+   26  git commit -m "this is my first commit"
+   27  git status
+   28  git log
+   29  ls
+   30  git status
+   31  ls
+   32  cat >readme.txt
+   33  git status
+   34  mkdir test
+   35  git status
+   36  cd test/
+   37  cd ..
+   38  echo "hello worold"
+   39  echo "hello worold" >>test/test.py
+   40  git status
+   41  git add test/
+   42  git status
+   43  git commit -m "this is my third commit"
+   44  history
+   45  centos
+   46  ls
+   47  git status
+   48  git --version
+   49  mkdir learning2
+   50  ls
+   51  git status
+   52  git --version
+   53  git add --help
+   54  git --version
+   55  git add --help
+   56  ls
+   57  touch readme1.txt
+   58  ls
+   59  git status
+   60  git add . readme2
+   61  git add . readme1
+   62  git init
+   63  cd learning2/
+   64  touch readme2.txt
+   65  ls
+   66  cd ../
+   67  ls
+   68  git add . readme2 "hi iam rajender"
+   69  cd /learning2
+   70  cd learning2
+   71  ls
+   72  git add . readme2 "hi iam rajender"
+   73  git status
+   74  git add .
+   75  git status
+   76  git config --global user.name "rajender"
+   77  git config --global user.email "raviteja@gmail.com"
+   78  git commit -m "this is my first commit"
+   79  git status
+   80  git log
+   81  git status
+   82  cd
+   83  cd /desktop
+   84  cd ~
+   85  cd ../
+   86  cd
+   87  ls
+   88  ssh -i "webserverkey.pem" centos@ec2-15-207-19-226.ap-south-1.compute.amazonaws.com
+   89  sudo -i
+   90  yum install sudo -i
+   91  sudo -i
+   92  cd ~/
+   93  cd /download
+   94  cd ~/download
+   95  cd /desktop
+   96  cd /Desktop
+   97  ls
+   98  cd ../
+   99  cd /Desktop
+  100  cd ~
+  101  cd /Desktop
+  102  cd ~/Desktop
+  103  cd ~/Download
+  104  cd
+  105  cd ~/Download
+  106  cd ~/Desktop
+  107  cd ~
+  108  cd ~/Downloads
+  109  cd
+  110  cd ~
+  111  cd ~/
+  112  cd ~/Desktop
+  113  cd ~/Downloads
+  114  cd ~/Downloads/ec2
+  115  mkdir ec2
+  116  ls
+  117  cd ~/Downloads/ec2
+  118  ssh -i "webserverkey.pem" centos@ec2-15-207-19-226.ap-south-1.compute.amazonaws.com
+  119  ssh -i "webserverkey.pem" centos@ec2-15-207-19-226.ap-south-1.compute.amazonaws.com
+  120  sudo -i
+  121  yum install sudo -i
+  122  sudo -i
+  123  15.207.19.226
+  124  touch file
+  125  ls
+  126  cat>file
+  127  cat file
+  128  ls
+  129  cat file
+  130  clear
+  131  ls -al
+  132  git status
+  133  git init .
+  134  ls -al
+  135  touch file
+  136  cat>file
+  137  git status
+  138  git add . file
+  139  git status
+  140  git commit -m "i need job instantly" file
+  141  git log
+  142  git log
+  143  clear
+  144  mkdir learning
+  145  git --version
+  146  git init
+  147  ls
+  148  git status
+  149  mkdir rajender raviteja
+  150  ls
+  151  touch raj
+  152  touch ravi
+  153  ls
+  154  git status
+  155  rm -rf rajender raviteja
+  156  ls
+  157  rm raj ravi
+  158  ls
+  159  cd ~/Downloads
+  160  git status
+  161  git init
+  162  mkdir rajender raviteja
+  163  touch raj ravi
+  164  git status
+  165  ls
+  166  git add . rajender raviteja raj ravi
+  167  git status
+  168  git add . rajender
+  169  ls
+  170  ls -al
+  171  git add . raj
+  172  git statu
+  173  git status
+  174  clear
+  175  ll
+  176  clear
+  177  rm -rf rajender raviteja
+  178  ls
+  179  rm raj
+  180  ls
+  181  rm ravi
+  182  ls
+  183  clear
+  184  git --version
+  185  git status
+  186  clear
+  187  git init .
+  188  mkdir earning
+  189  cd earning
+  190  ls
+  191  touch file1
+  192  ls
+  193  touch file2
+  194  ls
+  195  mkdir dir1 dir2
+  196  ls
+  197  git status
+  198  ls
+  199  git init .
+  200  git status
+  201  cat>file1
+  202  ls
+  203  git status
+  204  cat >file2
+  205  ls
+  206  git status
+  207  git add . file1
+  208  git status
+  209  git add . file2
+  210  git status
+  211  git config --global user.name "rajender"
+  212  git config --global user.email "raj@gmail.com"
+  213  git commit -m 
+  214  git commit -m "my first commit"
+  215  git status
+  216  git commit -m "my first commit" file1
+  217  git status
+  218  git commit -m "my second commit" file2
+  219  git status
+  220  git log
+  221  git log --one line
+  222  git log --oneline
+  223  git status
+  224  ls
+  225  clear
+  226  git status
+  227  ls -al
+  228  git status
+  229  git add .
+  230  ls
+  231  cd learning
+  232  ls
+  233  git status
+  234  git log --oneline
+  235  touch Document.txt
+  236  ls
+  237  git status
+  238  git clean -fd . Document.txt
+  239  ls
+  240  git status
+  241  git log --oneline
+  242  git checkout 27ab2ff
+  243  ls
+  244  ls -la
+  245  cd .git/
+  246  ls
+  247  cat -n config
+  248  cd ..
+  249  git log --oneline
+  250  git checkout master
+  251  git log --oneline
+  252  ls
+  253  git status
+  254  touch document
+  255  ls
+  256  git status
+  257  git init.
+  258  git init
+  259  git status
+  260  git add . document
+  261  git status
+  262  git commit -m "this is my 4th commit" document
+  263  git status
+  264  ls
+  265  git remote --help
+  266  git status
+  267  git init
+  268  git status
+  269  ls
+  270  cat >mango
+  271  ls
+  272  mkdir src dist
+  273  git status
+  274  ls
+  275  touch src/main.py
+  276  touch dist/pom.xml
+  277  git status
+  278  git add .
+  279  git status
+  280  git commit -m "this is python project"
+  281  git status
+  282  git config --global user.name "rajender"
+  283  git config --global user.email "rajender@gmail.com"
+  284  git status
+  285  git remote add origin https://github.com/islavathrajender/project1.git
+  286  git branch
+  287  git push -u origin master
+  288  git push -u origin master
+  289  git status
+  290  ls
+  291  git remote add origin https://github.com/islavathrajender/project1.git
+  292  git push -u origin master
+  293  git pull
+  294  git push -u origin master
+  295  ls
+  296  git log --oneline
+  297  git remote --help
+  298  git remote 
+  299  ls
+  300  cat >>mango
+  301  git status
+  302  git add .
+  303  git commit -m "second commit"
+  304  git status
+  305  touch apple
+  306  git status
+  307  git add .
+  308  git commit -m "third commit"
+  309  git status
+  310  git push
+  311  touch green
+  312  git status
+  313  git add .
+  314  git commit -m "fixed"
+  315  git status
+  316  git push
+  317  git pull
+  318  ls
+  319  git push
+  320  history
+  321  ls
+  322  git branch
+  323  git --version
+  324  ls
+  325  git init
+  326  mkdir src dist
+  327  ls
+  328  touch src/main.py
+  329  ls
+  330  git status
+  331  touch dist/pom.xml
+  332  ls
+  333  git status
+  334  ls
+  335  git status
+  336  git add .
+  337  git status
+  338  git config --global user.name "rajender"
+  339  git config --global user.email "rajender@gmail.com"
+  340  git commit -m "this is my first commit"
+  341  git status
+  342  git log
+  343  git log --oneline
+  344  git checkout
+  345  git status
+  346  git log
+  347  git init
+  348  touch f1
+  349  cat>f1
+  350  ls
+  351  git status
+  352  git add . f1
+  353  git status
+  354  git commit -m "this is my second commit" f1
+  355  git status
+  356  git log
+  357  git log --oneline
+  358  touch f2
+  359  git status
+  360  git add . f2
+  361  git status
+  362  git reset f2
+  363  git status
+  364  cat>f2
+  365  git add . f2
+  366  git status
+  367  git reset f2
+  368  git status
+  369  git add . f2
+  370  git status
+  371  git commit -m "this is my third commit" f2
+  372  git status
+  373  git log
+  374  git log --oneline
+  375  git status
+  376  git remote add origin https://github.com/islavathrajender/project2.git
+  377  git branch
+  378  git push -u origin master
+  379  git status
+  380  ls
+  381  ls -la
+  382  ls
+  383  cat >src/main.py
+  384  git status
+  385  git add .
+  386  git commit -m "this for mere conflict"
+  387  git push
+  388  git pull
+  389  ls
+  390  cd src/
+  391  ls
+  392  start .
+  393  cd ..
+  394  ls
+  395  git status
+  396  ls
+  397  git add .
+  398  git commit -m "fixed"
+  399  git status
+  400  git log --oneline
+  401  git push
+  402  git branch
+  403  git branch release-A
+  404  git branch
+  405  git checkout release-A
+  406  git branch
+  407  git checkout master
+  408  git status
+  409  git checkout -b release-B
+  410  git branch
+  411  ls
+  412  git log --oneline
+  413  git push origin release-B
+  414  git branch
+  415  ls
+  416  git checkout release-A
+  417  git branch
+  418  cat >red
+  419  git status
+  420  git add .
+  421  git commit -m "release-a Y"
+  422  git status
+  423  git chekout release-B
+  424  git branch
+  425  ls
+  426  cat >blue
+  427  git status
+  428  git add .
+  429  git commit -m "release-b X"
+  430  ls
+  431  git status
+  432  git checkout release-A
+  433  git branch
+  434  ls
+  435  git merge release-B
+  436  ls
+  437  git push release-A
+  438  git push origin release-A
+  439  ls
+  440  git status
+  441  git branch
+  442  history
+  443  git --version
+  444  git status
+  445  ls
+  446  ll
+  447  git init .
+  448  git status
+  449  mkdir src/main.py dist/pom.xml
+  450  mkdir src/main.py
+  451  mkdir dist/pom.xml
+  452  ll
+  453  ls
+  454  git init
+  455  mkdir src/main.py dist/pom.xml
+  456  mkdir src/main.py
+  457  git init .
+  458  mkdir src/main.py
+  459  mkdir src dist
+  460  ls
+  461  cd src
+  462  touch main.py
+  463  ls
+  464  cd workingpractice
+  465  cd /workingpractice
+  466  cd ./workingpractice
+  467  cd ../workingpractice
+  468  ls
+  469  cd ..
+  470  cd src
+  471  cd ../..
+  472  cd workingpractice
+  473  mkdir dist
+  474  ls
+  475  cd dist
+  476  touch pom.xml
+  477  ls
+  478  cd ../
+  479  ls
+  480  git status
+  481  cat>file1
+  482  ls
+  483  cat>file2
+  484  ls
+  485  git status
+  486  git add file1
+  487  git status
+  488  git add file2
+  489  git status
+  490  git reset file1
+  491  git status
+  492  git reset file2
+  493  git status
+  494  git add src/main.py
+  495  git status
+  496  git add file1 file2 dist/pom.xml
+  497  git status
+  498  git commit -m "this is my first commit" dist/pom.xml
+  499  git status
+  500  git commit -m "this is my second commit" src/main.py
+  501  git status
+  502  git log
+  503  git log --oneline
+  504  git commit -m "this is my third commit" file1
+  505  git status
+  506  git commit -m "this is my fourth commit" file2
+  507  git status
+  508  git log
+  509  git restore --staged .file1_logout
+  510  git status
+  511  git reset file1
+  512  git status
+  513  git revert file1
+  514  git status
+  515  git remote add origin https://github.com/islavathrajender/practiceproject1.git
+  516  git branch
+  517  git push -u origin master
+  518  history
+  519  history >23rdfeb
